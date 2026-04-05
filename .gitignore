@@ -1,0 +1,14 @@
+# Binaries
+bin/
+*.exe
+
+# Database
+*.db
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
